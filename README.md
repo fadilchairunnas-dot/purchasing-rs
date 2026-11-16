@@ -2,7 +2,7 @@
 
 Repositori ini berisi rancangan sistem dan kode sumber untuk **Sistem Informasi Pengajuan dan Manajemen Stok Barang Rumah Sakit**, yang disusun untuk memenuhi penugasan mata kuliah Proyek Utama (Capstone Project) D4 TRPL Politeknik Negeri Padang.
 
-## A. Identitas Proyek (T-03 System Request)
+## A. Identitas Proyek 
 * **Nama Proyek:** Sistem Informasi Pengajuan dan Manajemen Stok Barang Rumah Sakit
 * **Singkatan:** Purchasing RS[cite: 5]
 * **Project Sponsor:** Yohadi Yoansyah (Kepala Sub Bagian Logistik)[cite: 5]
